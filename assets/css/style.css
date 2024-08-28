@@ -1,0 +1,33 @@
+* {
+    margin: 10px;
+    padding: 10;
+}
+
+
+h1 {
+    margin: 20px;
+
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+ul {
+    display: block;
+}
+
+header {
+    display: block;
+    height: 50px;
+    width: 100%;
+    line-height: 50%;
+}
+
+nav {
+    display: block;
+}
